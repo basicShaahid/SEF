@@ -1,0 +1,40 @@
+Prescription ID: 0
+Remark: This is a valid remark for testing.
+Category: client
+------------------------
+Prescription ID: 0
+Remark: Optometrist’s detailed remark meets all the necessary requirements.
+Category: optometrist
+------------------------
+Prescription ID: 1
+Remark: This is the first valid remark for the prescription.
+Category: client
+------------------------
+Prescription ID: 1
+Remark: Here is another valid remark for the prescription.
+Category: optometrist
+------------------------
+Prescription ID: 2
+Remark: This is the first valid remark for the prescription.
+Category: client
+------------------------
+Prescription ID: 2
+Remark: Here is another valid remark for the prescription.
+Category: optometrist
+------------------------
+Prescription ID: 1
+Remark: This is the first valid remark for the prescription.
+Category: client
+------------------------
+Prescription ID: 1
+Remark: Here is another valid remark for the prescription.
+Category: optometrist
+------------------------
+Prescription ID: 2
+Remark: This is the first valid remark for the prescription.
+Category: client
+------------------------
+Prescription ID: 2
+Remark: Here is another valid remark for the prescription.
+Category: optometrist
+------------------------
